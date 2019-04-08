@@ -2,4 +2,9 @@
 
 Kaggle Titanic Challenge project for CS 286 at SJSU. 
 
-In collaboration with Scott (Vuong) Tran and Rajeshwari Chandratre.
+## Authors
+
+* **Ai-Linh Alten** - [aalten77](https://github.com/aalten77)
+* **Scott (Vuong) Tran** - [vuongtrans](https://github.com/vuongtrans)
+* **Rajeshwari Chandratre** - [rajeshwarichandratre](https://github.com/rajeshwarichandratre)
+
